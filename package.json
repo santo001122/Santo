@@ -43,8 +43,6 @@
         "moment": "^2.29.1",
         "moment-timezone": "^0.5.41",
         "mqtt": "latest",
-        "nayan-api-servers": "^2.4.8",
-        "nayan-media-downloaders": "^0.1.6",
         "node-cmd": "^5.0.0",
         "node-cron": "^3.0.2",
         "node-fetch": "^3.3.1",
@@ -81,4 +79,4 @@
         "youtube-search-api": "^1.1.1",
         "ytdl-core": "^4.11.4"
     }
-}
+    }
